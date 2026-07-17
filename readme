@@ -30,3 +30,10 @@ Update 4 :
 
 Branches created , pull request and mergered done.
 
+Update 5 :
+
+Develop and Feature 1 has different content at the same line. Feature 1 
+content is recently updated and develop has old contents. So using 
+feature 1 contents in develop. And it caused merge conflict. resolved 
+the merge conflict in github and added comments.
+
